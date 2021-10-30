@@ -1,5 +1,6 @@
 # Python
 __pycache__/
+*.egg-info
 
 # Libraries and Models
 CLIP/
@@ -10,10 +11,16 @@ checkpoints/
 # Editor
 .vscode/
 
+# OS
+.DS_Store
+
 # Operations
 outputs/
 steps/
+outputs-*/
+steps-*/
 
 # Files
 output.png
 steps.mp4
+
