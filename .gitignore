@@ -2,6 +2,10 @@
 __pycache__/
 *.egg-info
 
+shh/
+shhh/
+shhhh/
+
 # Libraries and Models
 CLIP/
 taming-transformers/
